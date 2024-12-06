@@ -1,0 +1,1 @@
+this is a project for The Odin Project, where I implemented a function which takes two arrays as input which are starting and ending points/square of a chess board(8 x 8) respectively. The function finds the shortest path between those points that a knight/horse can move following the rule of chess(i.e half L move).
